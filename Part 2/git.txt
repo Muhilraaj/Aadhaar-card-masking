@@ -1,1 +1,4 @@
+https://www.lrde.epita.fr/dload/olena/datasets/dbd/1.0/nouvel_obs_2402_clean-1.0.zip 
 
+URL to download the dataset.
+Extract the input folder.
